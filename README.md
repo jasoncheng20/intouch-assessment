@@ -13,7 +13,7 @@ To view the application, you must run it using a local web server to avoid CORS 
 2. Start a local web server:
    ```bash
    npm install -g http-server
-   http-server
+   http-server .
 
 3. Verify that the web page loads by navigating to http://localhost:8080 in your browswer.
    Please feel free to reach out to me (jasoncheng20@gmail.com) if any issues arise!
