@@ -7,7 +7,7 @@ To view the application, you must run it using a local web server to avoid CORS 
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/jasoncheng20/intouch-assessment.git
    cd intouch-assessment
 
 2. Start a local web server:
@@ -15,7 +15,7 @@ To view the application, you must run it using a local web server to avoid CORS 
    npm install -g http-server
    http-server
 
-3. Verify that the web page loads by navigating to http://localhost:8000 in your browswer.
+3. Verify that the web page loads by navigating to http://localhost:8080 in your browswer.
    Please feel free to reach out to me (jasoncheng20@gmail.com) if any issues arise!
 
 ## Notes
